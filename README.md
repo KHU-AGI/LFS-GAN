@@ -54,7 +54,7 @@ We also provide checkpoints of our framework - LFS-GAN on Sketches, Female, Sung
 
 | |Sketches|Female|Sunglasses|Male|Babies| 
 |--|--|--|--|--|--|
-|Pretrained LFS-GAN|[Download](https://drive.google.com/file/d/11zUgRUeb8dvSHYlxMxqxTaxso-js56ds/view?usp=drive_link)|[Download](https://drive.google.com/file/d/1sFlUoddQRgKJ0WeI6PFNJkh4rQ0JDr36/view?usp=drive_link)|[Download](https://drive.google.com/file/d/16U6ajA9Pk9p8IDW57euHsHJ0HqW3IcIa/view?usp=drive_link)|[Download](https://drive.google.com/file/d/1qKYFWbOvYebWWjUxYoaHGHdx7L1Fmk4y/view?usp=drive_link)|[Download](https://drive.google.com/file/d/11r0PefSWCvYkm2VEy0QuVz0d6nag1xNs/view?usp=drive_link)|
+|Pretrained LFS-GAN|Download|Download|Download|Download|Download|
 
 # Train
 You can train LFS-GAN by running:
