@@ -20,7 +20,7 @@ Before running our code, please set up an environment by running commands below:
 ```bash
 git clone git@github.com:JJuOn/LFS-GAN.git
 cd LFS-GAN
-conda env create -f environmenmt.yaml
+conda env create -f environment.yaml
 ```
 ## Dataset
 We are providing the training datasets (10-shot) and their full dataset for evaluation.  
